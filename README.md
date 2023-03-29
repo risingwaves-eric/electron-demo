@@ -17,3 +17,16 @@
 
 ### npm run start
 
+启动应用
+
+### npm install --save-dev @electron-forge/cli
+
+安装Electron Forge 的CLI 的工具包
+
+### npx electron-forge import
+
+将项目导入至 Electron Forge
+
+### npm run make
+
+
